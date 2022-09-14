@@ -2,4 +2,4 @@
 
 ---
 
-add more next time
+add more next time for redux
